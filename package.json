@@ -1,0 +1,23 @@
+{
+  "name": "cyper-automation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rami",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.0.0",
+    "cypress-file-upload": "^5.0.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ramirow/Cypress-Automation.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ramirow/Cypress-Automation/issues"
+  },
+  "homepage": "https://github.com/Ramirow/Cypress-Automation#readme",
+  "description": ""
+}
